@@ -1,8 +1,8 @@
 {
-	BasePart = [
+	BasePart: [
 		{
-			block = "Appearance",
-			properties = {
+			block: "Appearance",
+			properties: {
 				"Size",
 				"Position",
 				"Orientation",
