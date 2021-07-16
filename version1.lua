@@ -1,14 +1,14 @@
 {
 	BasePart: [
 		{
-			block: "Appearance",
-			properties: {
+			block: ["Appearance"],
+			properties: [{
 				"Size",
 				"Position",
 				"Orientation",
 				"Origin Position",
 				"Origin Orientation",
-			}
+			}]
 		}
 	]
 }
