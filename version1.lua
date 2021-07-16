@@ -1,5 +1,5 @@
 {
-	BasePart = {
+	BasePart = [
 		{
 			block = "Appearance",
 			properties = {
@@ -10,5 +10,5 @@
 				"Origin Orientation",
 			}
 		}
-	}
+	]
 }
